@@ -1,4 +1,4 @@
-🧪 Passion LAB
+=====Passion LAB=====
 Welcome to Passion LAB, a personal creative space built to showcase the things I love most. This project is a deep dive into my favorite hobbies, organized into a clean and interactive web experience.
 
 Featured Sections
